@@ -1,0 +1,5 @@
+Metric,Score
+Sensitivity,0.9130434782608695
+Specificity,0.7777777777777778
+Accuracy,0.84
+F1-Score,0.84
